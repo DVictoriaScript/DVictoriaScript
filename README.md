@@ -13,13 +13,11 @@
   <tr>
     <td valign="top" width="70%">
 
-### 💫 About Me
-
-- 🎓 Software Development and Data Analysis Student at **FIAP** – Faculty of Informatics and Administration of São Paulo (Brazil)  
-- 🚀 Currently looking for an internship to apply and grow my skills  
-- 🌱 Background in **Sales** and **Customer service**  
-- 🌐 Fluent in **Portuguese**, **English**, and **Spanish**  
-- ✈️ Traveled to over 15 countries – always learning something new <br><br>
+### 💻 Innovation & Software Engineering | Emerging Product Leader  
+🌍 Vancouver, Canada – Open to remote/global opportunities  
+🎓 ADS Student at FIAP, Brazil | Leading Innovation & Product @ PSCorporate  
+✈️ Traveled 15+ countries – passionate about tech, strategy & people  
+🌐 Multilingual: Portuguese, English, Spanish<br><br>
 
   </td>
     <td align="center" width="30%">
@@ -60,7 +58,6 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DVictoriaScript&theme=dark&hide_border=false" height="150" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVictoriaScript&theme=dark&hide_border=false&layout=compact" height="150" />
 </div>
 
