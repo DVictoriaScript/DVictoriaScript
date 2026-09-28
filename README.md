@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi, I’m Daphne Victoria ✨</h1>
 <p align="center">
-  💻 Software Development and Data Analysis Student • Creative & Multilingual  
+  💻 Software Development and Data Analysis • Creative & Multilingual  
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 🌍 Vancouver, Canada – Open to remote/global opportunities  
 🎓 ADS Student at FIAP, Brazil | Leading Innovation & Product @ PSCorporate  
 ✈️ Traveled 15+ countries – passionate about tech, strategy & people  
-🌐 Multilingual: Portuguese, English, Spanish<br><br>
+🌐 Multilingual: Portuguese, English, Spanish, Mandarin<br><br>
 
   </td>
     <td align="center" width="30%">
